@@ -42,9 +42,9 @@ Univariate analysis
 
 6) Analysis based on the meal.
 
-7)Analysis of the requirement for car parking space.
+ 7)Analysis of the requirement for car parking space.
 
-8)Which hotel has the highest number of repeat customers?
+ 8)Which hotel has the highest number of repeat customers?
 
 Bivariate Analysis
 
