@@ -1,5 +1,6 @@
 # Hotel_Booking-Analysis-EDA-Project
 Hotel booking analysis is an EDA project. In this, By using Python I cleaned the data manipulated the data and by doing analysis i.e Univariatae analysis, Bivariate analysis, Multivariate analysis found some insights and business solutions.
+
 Business Objective: 
 If the company is doing well, we should focus on improving it even more. However, it is critical to be aware of any unfavourable variables that may have an impact on the business and prioritise fixing them in order to turn the negative aspects into positive ones.
 1) How to Increase Customer Bookings?
