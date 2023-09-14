@@ -88,3 +88,5 @@ Solution: While many long-term guests prefer city hotels, resort hotels can prod
 8) When booking hotels, a large group nearly 94% does not need parking spaces.
     
 9) Most guests stay for less than 5 days in a hotel, while the Resort hotel is preferred for longer stays.
+    
+   
