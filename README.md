@@ -42,9 +42,9 @@ Univariate analysis
 
 6) Analysis based on the meal.
 
- 7)Analysis of the requirement for car parking space.
+7) Analysis of the requirement for car parking space.
 
- 8)Which hotel has the highest number of repeat customers?
+8) Which hotel has the highest number of repeat customers?
 
 Bivariate Analysis
 
@@ -54,17 +54,17 @@ Bivariate Analysis
 
 11) From which country customers are mostly visiting?
 
-12)Which is the most common channel for booking hotels?
+12) Which is the most common channel for booking hotels?
 
 13) Which channel is most grequently used for early hotel bookings?
 
-Time-wise analysis
+Time-wise analysis:
 
 1) Studying reservations made for hotels each month and comparing them depending on lead times
 
 2) In which month bookings is highest in hotels?
 
-CORRELATION and Pair-plot
+CORRELATION and Pair-plot:
 
 14) What is the correlation between numerical varaibles?
 
@@ -73,18 +73,18 @@ CORRELATION and Pair-plot
 Conclusion:
 1) Because the majority of consumers favour A-rooms, hotels should expand their number to generate more money.
 
-2)Transient consumers cancel more frequently, but when people book in groups, there are less cancellations; so, hotels should provide some deals to reduce cancellations.
+2) Transient consumers cancel more frequently, but when people book in groups, there are less cancellations; so, hotels should provide some deals to reduce cancellations.
 
 3) Since May to August sees the highest number of reservations, hotels should entice guests with appealing deals to boost their off-season bookings.
    
 4) Because fewer hotel guests are returning, management should use guest feedback to enhance the hotel's amenities and boost the number of returning visitors.
    
-5)The countries that send us the most visitors—Portugal, France, and the UK—are also the ones that bring in the most money.Portugal is the country that generates the most bookings and income. To increase sales, marketing teams should focus on these nations.
+5) The countries that send us the most visitors—Portugal, France, and the UK—are also the ones that bring in the most money.Portugal is the country that generates the most bookings and income. To increase sales, marketing teams should focus on these nations.
 
-6)The most frequent type of visitor is a couple, and fulfilling their demands can boost revenue. More specific demands are typically made by larger groups of people.
+6) The most frequent type of visitor is a couple, and fulfilling their demands can boost revenue. More specific demands are typically made by larger groups of people.
 
 7) Longer stays (more than 15 days) typically yield better offers due to lower adr. Booking cancellations are not severely impacted by not getting the same reserved room, longer lead times, or waiting periods, but a different room allotment can reduce the adr.
    
 8) When booking hotels, a large group nearly 94% does not need parking spaces.
     
-9)Most guests stay for less than 5 days in a hotel, while the Resort hotel is preferred for longer stays.
+9) Most guests stay for less than 5 days in a hotel, while the Resort hotel is preferred for longer stays.
