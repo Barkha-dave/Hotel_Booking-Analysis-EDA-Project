@@ -1,7 +1,7 @@
 # Hotel_Booking-Analysis-EDA-Project
 Hotel booking analysis is an EDA project. In this, By using Python I cleaned the data manipulated the data and by doing analysis i.e Univariatae analysis, Bivariate analysis, Multivariate analysis found some insights and business solutions.
 
-Business Objective: 
+# Business Objective: 
 
 If the company is doing well, we should focus on improving it even more. However, it is critical to be aware of any unfavourable variables that may have an impact on the business and prioritise fixing them in order to turn the negative aspects into positive ones.
 
@@ -26,9 +26,9 @@ Solution: Global Distribution Network There are no bookings for the resort hotel
    
 Solution: While many long-term guests prefer city hotels, resort hotels can produce greater revenue. To entice these clients to book resort hotels, agents might be offered greater prices and incentives to persuade them to switch.
 
-Problem Statement:
+# Problem Statements:
 
-Univariate analysis
+# Univariate analysis
 
 1) Which agent makes the most bookings for the customers?
 
@@ -46,7 +46,7 @@ Univariate analysis
 
 8) Which hotel has the highest number of repeat customers?
 
-Bivariate Analysis
+# Bivariate Analysis
 
 9) Which catagory of customers made the highest bookings.
 
@@ -58,19 +58,19 @@ Bivariate Analysis
 
 13) Which channel is most grequently used for early hotel bookings?
 
-Time-wise analysis:
+# Time-wise analysis:
 
 1) Studying reservations made for hotels each month and comparing them depending on lead times
 
 2) In which month bookings is highest in hotels?
 
-CORRELATION and Pair-plot:
+# CORRELATION and Pair-plot:
 
 14) What is the correlation between numerical varaibles?
 
 15) Analyse a pairwise relationship in a dataset.
 
-Conclusion:
+# Conclusion:
 1) Because the majority of consumers favour A-rooms, hotels should expand their number to generate more money.
 
 2) Transient consumers cancel more frequently, but when people book in groups, there are less cancellations; so, hotels should provide some deals to reduce cancellations.
